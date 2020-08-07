@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m Jiawei Li.
-- 📫 My homepage: [ljwstruggle.com](https://www.ljwstruggle.com)
-- 😄 My blog: [blog.ljwstruggle.com](https://blog.ljwstruggle.com)
-- ⚡ My online service: [service.ljwstruggle.com](https://service.ljwstruggle.com)
+- 😄 My homepage: [ljwstruggle.com](https://www.ljwstruggle.com)
 
 <!--
 **jiawei6636/jiawei6636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
