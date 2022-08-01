@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m Jiawei Li.
+- I’m Jiawei Li (李佳玮) . 😁
 - Mail: ljwstruggle@qq.com or ljwstruggle@gmail.com
 - Homepage: [www.ljwstruggle.com](https://www.ljwstruggle.com)
 
