@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I’m Jiawei Li (李佳玮) . 😁
-- Mail: ljwstruggle@qq.com or ljwstruggle@gmail.com
+- Mail: ljwstruggle@gmail.com or ljwstruggle@qq.com
 - Homepage: [www.ljwstruggle.com](https://www.ljwstruggle.com)
 - Scholar Homepage: [Google Scholar](https://scholar.google.com/citations?user=5QyQqYsAAAAJ&hl=en)
 
