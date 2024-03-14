@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - I’m Jiawei Li (李佳玮) . 😁
-- Mail: ljwstruggle@gmail.com or ljwstruggle@qq.com
 - Homepage: [www.ljwstruggle.com](https://www.ljwstruggle.com)
 - Scholar Homepage: [Google Scholar](https://scholar.google.com/citations?user=5QyQqYsAAAAJ&hl=en)
+- Contact Mail: ljwstruggle@gmail.com or ljwstruggle@qq.com
 
 <!--
 **jiawei6636/jiawei6636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
